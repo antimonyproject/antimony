@@ -1,6 +1,6 @@
 [package]
 name = "antimony"
-version = "0.0.0"
+version = "0.0.1"
 homepage = "https://antimony.rs"
 authors = ["Mohammed Makhlouf <msmakhlouf@gmail.com>","Mohammad Samir <me@msamir.me>"]
 keywords = ["stream-processing","distributed", "real-time","drpc"]
@@ -9,7 +9,7 @@ documentation = "https://docs.rs/antimony"
 readme = "README.md"
 license = "MIT/Apache-2.0"
 description = """
-    A topology builder crate for Antimony. Version 0.0.0 is published as a placeholder.
+    A topology builder crate for Antimony.
 """
 
 [dependencies]
